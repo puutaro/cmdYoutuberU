@@ -12,6 +12,7 @@ Youtube background player (**ubuntu version**) @puutaro
 Table of Contents
 -------
 <!-- vim-markdown-toc GFM --> 
+* [Installation](#installation)
 * [Support long press menu table](#support-long-press-menu-table)
 * [Toolbar buttons](#toolbar-buttons)
 	* [Play Button](#play-button)
@@ -32,6 +33,14 @@ Table of Contents
 	* [terminalFontZoom](#terminalfontzoom)
 	* [terminalFontColor](#terminalfontcolor)
 	* [terminalColor](#terminalcolor)
+
+
+## Installation
+
+1. Install [ComamndClick](https://github.com/puutaro/CommandClick) to your android by [this link](https://github.com/puutaro/CommandClick#app-installation)
+2. Set up Ubuntu by [this link](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#setup-ubuntu)
+3. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
+4. Press [Install button](#install)
 
 
 ## Support long press menu table
