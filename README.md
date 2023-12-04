@@ -5,7 +5,7 @@
 
 
 # cmdYoutuberU
-
+---------------------
 
 Youtube background player (**ubuntu version**) @puutaro
 
@@ -54,6 +54,7 @@ Table of Contents
 | image | x |
 
 ## Toolbar buttons
+---------------------
 
 ### Play Button
 
@@ -80,7 +81,7 @@ Select shuffle or ordinaly and press
 1. Press "Exec"
 2. (Execute play list)
 
-## PLAY
+### PLAY
 
 Play youtube music
 
@@ -118,6 +119,7 @@ Edit tube play list name by `renameTubePlayListName`
 
 
 ## Execute target on click in url history
+---------------------
 
 [PLAY](#play)
 
@@ -129,6 +131,7 @@ This Fannel is used to bellow repo as core library.
 
 ## Setting variables
 ---------
+
 ### onUrlHistoryRegister
 Url history update signal
 
@@ -145,3 +148,4 @@ Adjust terminal font color
 
 ### terminalColor
 Adjust terminal background color
+
