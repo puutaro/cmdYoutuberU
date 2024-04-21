@@ -1,6 +1,6 @@
 // js/action
 
-|actionImport=
+actionImport=
     `${cmdYoutuberMusicAction}`
 |replace=
     TEMP_PLAY_CON=
