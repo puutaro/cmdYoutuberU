@@ -4,7 +4,7 @@
 <div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
 
 
-# cmdYoutuberU
+# ytScraper
 ---------------------
 
 Youtube scraping background player (**ubuntu version**) @puutaro
