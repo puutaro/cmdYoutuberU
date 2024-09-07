@@ -6,7 +6,7 @@ exec repbash "${0}" \
   --args-con "${1}"
 
 echoWebSearchPlayList(){
-  toast "search.."
+  toast "search..${searchWord}"
 	local searchRawListPath="${cmdYoutuberTempDirPath}/searchRawList.txt"
 	bash "${cmdYoutuberYtfzfShellPath}" \
 		"${searchWord}" \
